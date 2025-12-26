@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+int main (){
+    int a ;
+    printf("enter the choices from below :-- \n");
+    printf("enter new expense :-- \n");
+    printf("track enpense of this month :-- \n");
+    printf("delete some expense:-- \n");
+    scanf("%d" , &a);
+	
+
+
+
+
+
+}
